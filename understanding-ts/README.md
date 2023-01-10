@@ -1,0 +1,1 @@
+Run `tsc app.ts`
